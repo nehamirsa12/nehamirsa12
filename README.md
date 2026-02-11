@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Fathimath Neha</h1>
+<h3 align="center">AI Enthusiast | Web Developer | CS Student</h3>
 
-<!--
-**nehamirsa12/nehamirsa12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Studying Computer Science at university of westlondon 
+- 🤖 Interested in Artificial Intelligence & Machine Learning  
+- 🌐 Learning Full Stack Web Development  
+- 💡 Love solving problems and building smart applications  
+- 🚀 Growing step by step in the tech world  
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+Python | Java | C++ | HTML | CSS | JavaScript | MySQL | Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+⭐ Thanks for visiting my profile!
+
